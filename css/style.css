@@ -39,6 +39,7 @@ body {
 }
 .social-link {
   margin-left: 20px;
+  color: #20202D;
 }
 .social-link:first-child {
   margin-left: 0;
